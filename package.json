@@ -1,5 +1,5 @@
 {
-  "name": "@bscex/sdk",
+  "name": "@snackswap/sdk",
   "license": "MIT",
   "version": "3.1.0",
   "description": "🛠 An SDK for building applications on top of Uniswap.",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/henrydapp/bscex-sdk.git"
+    "url": "git+https://github.com/snackswap/snackswap-sdk.git"
   },
   "keywords": [
     "uniswap",
@@ -25,7 +25,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@bscex/core": "1.0.5",
+    "@snackswap/core": "1.0.5",
     "@uniswap/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
