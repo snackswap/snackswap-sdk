@@ -2,7 +2,7 @@
   "name": "@snackswap/sdk",
   "license": "MIT",
   "version": "3.1.0",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "description": "🛠 An SDK for building applications on top of Snackswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -13,8 +13,8 @@
     "url": "git+https://github.com/snackswap/snackswap-sdk.git"
   },
   "keywords": [
-    "uniswap",
-    "ethereum"
+    "snackswap",
+    "fantom"
   ],
   "module": "dist/sdk.esm.js",
   "scripts": {
